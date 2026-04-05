@@ -21,6 +21,8 @@ Connect these inputs to the corresponding outputs from the **Cards**, **Paint**,
 
 The values are already set for each effect.
 
+To have *No effect* (3d model only), connect the "3d Model" output of the "Running Man" node straight to the "Output" socket in "Group Output" (Ignore Point Converter in this instance).
+
 ## Editing Values
 
 To adjust settings:
